@@ -29,6 +29,6 @@
 - Inventory and user management
 - Modular OOP-based architecture
 
-🔗 View Project:
+🔗 [View Project](https://github.com/OfekAmar/Blib_ProRepo)
 
 <!--
