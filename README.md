@@ -1,7 +1,10 @@
 ## I'm Omer Zilca
+---
+🎓 Software Engineering Student
 
 <!--
 **OmerZilca/OmerZilca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student
 
 Here are some ideas to get you started:
 
