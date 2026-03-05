@@ -1,6 +1,6 @@
 ## I'm Omer Zilca
 🎓 Software Engineering Student
-
+***
 ## 📂 Projects
 ### 📚 Bookify – Smart Library Web App
 >A full-stack web application for managing books, borrowing activities, and personalized reading lists.
@@ -30,5 +30,8 @@
 - Modular OOP-based architecture
 
 🔗 [View Project](https://github.com/OfekAmar/Blib_ProRepo)
+***
+## 📫Contact Me
 
+**📧 Email:** omer5052@gmail.com
 <!--
