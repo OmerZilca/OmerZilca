@@ -14,7 +14,7 @@
 - Role-based access control for admin and users
 - Real-time updates using Firebase
 
-🔗 View Project:
+🔗 [View Project](https://github.com/OfekAmar/Blib_ProRepo)
 
 ### 📚 Blib – Library Management System
 >A client-server desktop application for managing books, reservations, and library users.
